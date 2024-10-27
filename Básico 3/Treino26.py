@@ -16,7 +16,7 @@ for comida in lanche:
 for pos, comida in enumerate(lanche):
     print(f'Eu vou comer na janta hoje {comida} na posição {pos}')
 
-print(sorted(lanche))
+print(sorted(lanche)) #Coloca os itens em ordem alfabética
 print(lanche)
 
 
